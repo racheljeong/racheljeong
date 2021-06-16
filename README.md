@@ -21,7 +21,9 @@ Languages
 <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vs-007ACC?style=flat-square&logo=VsCode&logoColor=white"/>
 </br>
+</br>
 
+[![Dasom's GitHub stats](https://github-readme-stats.vercel.app/api?username=racheljeong)](https://github.com/racheljeong/github-readme-stats)
 
 
 
