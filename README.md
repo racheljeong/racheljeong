@@ -1,13 +1,13 @@
-### Hi there 👋
-Always desire to be better as Backend developer!
+## ***Hi there*** 👋
+Always desire to be better as Backend developer! <br/>
 Enthusiastic, Functional and used to work in fast-paced environment.
 </br>
-✨ Contact ✨
+ ✨ ***Contact*** ✨
 </br>
 <img src="https://img.shields.io/badge/-010--8072--9501-gold"/>
 <a href="mailto:jdsss2634@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jdsss2634@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
-💪 Skills
+💪 ***Skills***
 Techs that I've used at least once
 
 Languages
