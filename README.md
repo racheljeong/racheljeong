@@ -21,7 +21,7 @@ Languages
 🛠Tools
 
 <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Vs-007ACC?style=flat-square&logo=VsCode&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Vs Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </br>
 </br>
 
