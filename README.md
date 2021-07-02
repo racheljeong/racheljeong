@@ -1,7 +1,7 @@
 ## ***Hi there*** 👋
 </br>
 Always desire to be better as Backend developer! <br/>
-Enthusiastic, Functional and used to work in fast-paced environment.
+Enthusiastic and used to work in fast-paced environment.
 </br>
 </br>
 
