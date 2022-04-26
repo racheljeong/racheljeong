@@ -1,7 +1,8 @@
 ## ***Hi there*** 👋
 </br>
-Always desire to be better as Backend developer! <br/>
-Enthusiastic and used to work in fast-paced environment.
+Junior Web Developer specializing in front-end. <br/> 
+Always desire to be better as Web Developer! <br/>
+Strength in communication with co-workers and customer.
 </br>
 </br>
 
