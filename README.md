@@ -1,7 +1,7 @@
 ## ***Hi there*** 👋
 </br>
 Junior Web Developer specializing in front-end. <br/> 
-Always desire to be better as a Web Developer! <br/>
+Enthusiastic and always desire to be better! <br/>
 Strength in communication with co-workers and customers.
 </br>
 </br>
