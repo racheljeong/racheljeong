@@ -18,8 +18,7 @@
 <br>
 <br>
 
-## ***Hi there*** 👋
-Welcome to my page! 
+## ***Welcome to my page!*** 👋
 </br>
 Junior Web Developer specializing in front-end. <br/> 
 Passionate and always desire to be better! <br/>
