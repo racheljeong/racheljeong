@@ -19,17 +19,15 @@
 <br>
 
 ## ***Welcome to my page!*** 👋
-</br>
 Junior Web Developer specializing in front-end. <br/> 
 Passionate and always desire to be better! <br/>
 Strength in communication with co-workers and customers.
 </br>
 </br>
 
-✨ ***Contact*** ✨
-</br>
-<img src="https://img.shields.io/badge/-010--8072--9501-gold"/>
-<a href="mailto:jdsss2634@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jdsss2634@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+### ✨ ***Contact*** ✨
+<img src="https://img.shields.io/badge/-010--8072--9501-gold"/><a href="mailto:jdsss2634@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/jdsss2634@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </br>
 
 ### 💪***Skills***
