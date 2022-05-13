@@ -11,7 +11,7 @@
 <br>
 <br>
 <p align="center">
-<a href="https://quickest-mare-749.notion.site/Jeong-Dasom-62a74a097ba44cbbb5cfee84c4dd4f59" target="_blank"><img align="center" src="https://img.icons8.com/ios/250/000000/notepad.png" alt="rachel" height="30" width="30" /></a>
+<a href="https://da-som.notion.site/Jeong-Dasom-62a74a097ba44cbbb5cfee84c4dd4f59" target="_blank"><img align="center" src="https://img.icons8.com/ios/250/000000/notepad.png" alt="rachel" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/dasom-jeong-6317921a4/" target="_blank"><img align="center" src="https://img.icons8.com/ios/250/000000/linkedin.png" alt="rachel" height="30" width="30" /></a>
 </p>
 <br>
