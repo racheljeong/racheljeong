@@ -48,6 +48,5 @@ Strength in communication with co-workers and customers.
 </br>
 </br>
 
-[![Dasom's GitHub stats](https://github-readme-stats.vercel.app/api?username=racheljeong&show_icons=true&theme=buefy&bg_color=red,black,purple,yellow)](https://github.com/racheljeong/github-readme-stats)
 
 
